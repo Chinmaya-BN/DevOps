@@ -1,2 +1,4 @@
-print("Hi")
-print("Chinmaya")
+
+print("Hello")
+print("Karthik")
+
